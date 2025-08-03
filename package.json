@@ -1,5 +1,5 @@
 {
-  "name": "clone-tabnews",
+  "name": "mainstream",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -13,12 +13,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Nikolassantos/clone-tabnews.git"
+    "url": "git+https://github.com/Nikolassantos/mainstream.git"
   },
   "author": "",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Nikolassantos/clone-tabnews/issues"
+    "url": "https://github.com/Nikolassantos/mainstream/issues"
   },
-  "homepage": "https://github.com/Nikolassantos/clone-tabnews#readme"
+  "homepage": "https://github.com/Nikolassantos/mainstream#readme"
 }
